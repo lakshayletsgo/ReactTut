@@ -12,3 +12,35 @@
 // 2. Class
 
 // We will mostly use the function component and it can only return one element so will always enclose the entire jsx in tag
+
+
+// This is code of App.js
+
+// import logo from './logo.svg';
+// import './App.css';
+
+// function App() {
+//   return (
+//     <>
+//     <h1>My name is lakshay</h1>
+//     <div className="App">
+//       <header className="App-header">
+//         <img src={logo} className="App-logo" alt="logo" />
+//         <p>
+//           Edit <code>src/App.js</code> and save to reload.
+//         </p>
+//         <a
+//           className="App-link"
+//           href="https://reactjs.org"
+//           target="_blank"
+//           rel="noopener noreferrer"
+//         >
+//           Learn React
+//         </a>
+//       </header>
+//     </div>
+//     </>
+//   );
+// }
+
+// export default App;
